@@ -2,3 +2,4 @@
 2.Added new text for testing purpose
 3.Docker file added
 4.executed successfully
+5.new commands added
